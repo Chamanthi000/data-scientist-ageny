@@ -1,0 +1,16 @@
+{
+  "plan": [
+    {
+      "name": "eda",
+      "description": "Run EDA and basic data health checks."
+    },
+    {
+      "name": "train",
+      "description": "Train multiple classifiers to predict `churned`."
+    },
+    {
+      "name": "report",
+      "description": "Compile EDA + model metrics into a report."
+    }
+  ]
+}
